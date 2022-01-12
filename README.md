@@ -1,5 +1,5 @@
 # Linux__dd
-How to boot a pendrive using dd command
+How to format a pendrive, turning it bootable, using dd command
 
 
 ## Umount partition
